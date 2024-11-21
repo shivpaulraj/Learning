@@ -11,9 +11,10 @@ import e from 'express';
 export class CallbackPromiseComponent {
 
   ngOnInit() {
-    let [a, b] = [9, 6];//
+    
+    let [a, b] = [9, 6];// 
     let getresult = this.sumNum(a, b);
-
+    console.log("getresult",getresult);
     this.sumNumCallBack(a, b, function (getresults: number) {
       console.log("getresults Callback", getresults / 3);
     })
