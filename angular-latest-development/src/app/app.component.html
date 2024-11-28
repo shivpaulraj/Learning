@@ -12,9 +12,9 @@
         </ul>
       </nav>
       <div class="list-group">
-        <a href="/form" class="list-group-item list-group-item-action active" aria-current="true">Form </a>
-        <a href="/typescript" class="list-group-item list-group-item-action">Typescript</a>
-        <a href="/callback" class="list-group-item list-group-item-action">callback</a>
+        <a  [routerLink]="['/form']" routerLinkActive="active"  class="list-group-item list-group-item-action" aria-current="true">Form </a>
+        <a [routerLink]="['/typescript']" routerLinkActive="active" class="list-group-item list-group-item-action">Typescript</a>
+        <a [routerLink]="['/callback']" routerLinkActive="active" class="list-group-item list-group-item-action">callback</a>
         <a href="#" class="list-group-item list-group-item-action disabled" tabindex="-1" aria-disabled="true">A disabled link item</a>
       </div>
     </div>
