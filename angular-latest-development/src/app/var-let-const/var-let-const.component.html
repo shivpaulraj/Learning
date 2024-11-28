@@ -1,1 +1,19 @@
 <p>var-let-const works!</p>
+    <pre>
+    console.log(b);  //undefined
+        let a='a';
+        var b;
+        
+        function aa()
+            let a='b';  
+            console.log(a);//b || Inner Block
+            
+        aa();
+        console.log(a);  //a || Outer Block Scope
+        
+        for(var i=0;i &lt;5; i++)
+            console.log(i);  
+        
+        console.log(i);  
+  
+</pre>

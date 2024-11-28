@@ -22,7 +22,10 @@ export class VarLetConstComponent {
   console.log(a);  
   
   for(var i=0;i<5; i++){
-    console.log(i);  
+    setTimeout(()=>{
+      console.log(i);
+    },0)
+    
   }
   console.log(i);  
   
