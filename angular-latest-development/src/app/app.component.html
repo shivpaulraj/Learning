@@ -4,14 +4,19 @@
     <!-- <div class="col-12">Angular 18 Learning code {{ title }}!</div> -->
     <div class="col-2">
       Menus
-      <nav>
+      <nav [hidden]="true">
         <ul>
           <li>
-            <!-- <a class="button" routerLink="/first">First</a> | -->
-            <!-- <a class="button" routerLink="/second">Second</a> -->
+            <a class="button" routerLink="/first">First</a>
           </li>
         </ul>
       </nav>
+      <div class="list-group">
+        <a href="/form" class="list-group-item list-group-item-action active" aria-current="true">Form </a>
+        <a href="/typescript" class="list-group-item list-group-item-action">Typescript</a>
+        <a href="/callback" class="list-group-item list-group-item-action">callback</a>
+        <a href="#" class="list-group-item list-group-item-action disabled" tabindex="-1" aria-disabled="true">A disabled link item</a>
+      </div>
     </div>
     <div class="col-10">Content<br /><router-outlet></router-outlet> 
     </div>

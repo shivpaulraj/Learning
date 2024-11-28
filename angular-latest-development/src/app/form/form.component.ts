@@ -4,10 +4,10 @@ import { FormGroup, FormControl } from '@angular/forms';
   selector: 'app-first',
   standalone: true,
   imports: [],
-  templateUrl: './first.component.html',
-  styleUrl: './first.component.scss'
+  templateUrl: './form.component.html',
+  styleUrl: './form.component.scss'
 })
-export class FirstComponent {
+export class FormComponent {
 password: any;
 SubmitForm() {
  if(this.profileForm.valid){
