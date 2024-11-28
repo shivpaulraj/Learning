@@ -40,8 +40,7 @@ export class CallbackPromiseComponent {
 
     setTimeout(() => {
       AsyncFunction(c + d);
-    }
-      , 1500)
+    }, 1500)
   }
 
   //Promise Function
@@ -49,8 +48,7 @@ export class CallbackPromiseComponent {
     return new Promise((resolve, reject) => {
       setTimeout(() => {
         resolve(c + d);
-      }
-        , 1500)
+      }, 1500)
     })
   }
 }
