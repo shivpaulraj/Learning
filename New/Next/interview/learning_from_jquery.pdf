@@ -1,0 +1,1576 @@
+%PDF-1.6
+%‚„œ”
+329 0 obj
+<<
+/CompositeImage 4 0 R
+/EmbedFonts true
+/ExportCrispy true
+/ImageResources 5 0 R
+/RoundTrip true
+/SaveTransparency true
+/StandardImageFileData 6 0 R
+/StandardImageFileLength 4096
+/UseTextOutlines false
+>>
+endobj
+330 0 obj
+[ /ICCBased 7 0 R ]
+endobj
+331 0 obj
+<<
+/Ascent 1021
+/AvgWidth 561
+/CapHeight 1021
+/CharSet (/space/C/M/a/c/e/l/m/r/u)
+/Descent -360
+/Flags 98
+/FontBBox [ -216 -360 1684 1021 ]
+/FontFile3 11 0 R
+/FontName /DLMHOS+MinionPro-SemiboldIt
+/ItalicAngle -12
+/MaxWidth 1900
+/StemV 0
+/Type /FontDescriptor
+>>
+endobj
+332 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://my.safaribooksonline.com/?portal=oreilly)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121028-05'00')
+/Rect [ 172.2309 503.4499 280.5549 511.9499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+333 0 obj
+<<
+/A <<
+/S /URI
+/URI (mailto:corporate@oreilly.com)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121028-05'00')
+/Rect [ 254.6054 493.2499 329.3884 501.7499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+334 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://oreilly.com/catalog/errata.csp?isbn=9781449335199)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121028-05'00')
+/Rect [ 85.6935 349.3474 280.369 357.8474 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+335 0 obj
+[ 336 0 R 337 0 R 338 0 R 339 0 R 340 0 R 341 0 R 342 0 R 343 0 R 344 0 R 345 0 R 
+346 0 R 347 0 R 348 0 R 349 0 R 350 0 R 351 0 R 352 0 R 353 0 R 354 0 R 355 0 R 356 0 R 
+357 0 R 358 0 R 359 0 R 360 0 R 361 0 R 362 0 R 1129 0 R ]
+endobj
+336 0 obj
+<<
+/A <<
+/D (preface)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 72 438.194 432 450.194 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+337 0 obj
+<<
+/A <<
+/D (chapid_1)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 412.9939 432 424.9939 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+338 0 obj
+<<
+/A <<
+/D (_listening_for_events)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 400.2439 414 410.7439 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+339 0 obj
+<<
+/A <<
+/D (_events_in_jquery)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 387.6439 414 398.1439 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+340 0 obj
+<<
+/A <<
+/D (_events_in_javascript)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 375.0439 414 385.5439 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+341 0 obj
+<<
+/A <<
+/D (_events_in_internet_explorer_8)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 362.4439 414 372.9439 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+342 0 obj
+<<
+/A <<
+/D (_writing_a_wrapper_function)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 349.8439 414 360.3439 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+343 0 obj
+<<
+/A <<
+/D (_adding_event_handlers_to_multiple_elements)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 337.2439 414 347.7439 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+344 0 obj
+<<
+/A <<
+/D (Event_Propagation)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 324.6439 414 335.1439 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+345 0 obj
+<<
+/A <<
+/D (_internet_explorer_8217_s_attachevent)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 312.0439 414 322.5439 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+346 0 obj
+<<
+/A <<
+/D (_triggering_events)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 299.4439 414 309.9439 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+347 0 obj
+<<
+/A <<
+/D (_triggering_events_in_internet_explorer_8)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 286.8439 414 297.3439 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+348 0 obj
+<<
+/A <<
+/D (_writing_a_wrapper_function_to_trigger_events)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 274.2439 414 284.7439 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+349 0 obj
+<<
+/A <<
+/D (_removing_event_handlers)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 261.6439 414 272.1439 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+350 0 obj
+<<
+/A <<
+/D (_removing_event_handlers_in_internet_explorer_8)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 249.0439 414 259.5439 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+351 0 obj
+<<
+/A <<
+/D (_writing_a_wrapper_function_to_remove_events)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 236.4439 414 246.9439 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+352 0 obj
+<<
+/A <<
+/D (_adding_a_once_only_event_listener)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 223.8439 414 234.3439 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+353 0 obj
+<<
+/A <<
+/D (_summary)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 211.2439 414 221.7439 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+354 0 obj
+<<
+/A <<
+/D (chapid_2)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 186.1938 432 198.1938 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+355 0 obj
+<<
+/A <<
+/D (_constructors)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 173.4439 414 183.9439 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+356 0 obj
+<<
+/A <<
+/D (_method_chaining)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 160.8439 414 171.3439 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+357 0 obj
+<<
+/A <<
+/D (_constructor_not_function)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 148.2439 414 158.7439 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+358 0 obj
+<<
+/A <<
+/D (_prototypes)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 135.6438 414 146.1438 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+359 0 obj
+<<
+/A <<
+/D (_hasownproperty)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 123.0438 414 133.5438 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+360 0 obj
+<<
+/A <<
+/D (_editing_the_prototype_of_existing_objects)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 110.4438 414 120.9438 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+361 0 obj
+<<
+/A <<
+/D (_summary_2)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 97.8438 414 108.3438 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+362 0 obj
+<<
+/A <<
+/D (chapid_3)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 72.7938 432 84.7938 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+363 0 obj
+[ 364 0 R 365 0 R 366 0 R 367 0 R 368 0 R 369 0 R 370 0 R 371 0 R 372 0 R 373 0 R 
+374 0 R 375 0 R 376 0 R 377 0 R 378 0 R 379 0 R 380 0 R 381 0 R 382 0 R 383 0 R 384 0 R 
+385 0 R 386 0 R 387 0 R 388 0 R 389 0 R 390 0 R 391 0 R 392 0 R 393 0 R 394 0 R 395 0 R 
+396 0 R 397 0 R 398 0 R 399 0 R 400 0 R 401 0 R 402 0 R 403 0 R 1134 0 R ]
+endobj
+364 0 obj
+<<
+/A <<
+/D (_selecting_an_element)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 595.95 414 606.45 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+365 0 obj
+<<
+/A <<
+/D (_selecting_elements_with_a_css_selector)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 583.3499 414 593.8499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+366 0 obj
+<<
+/A <<
+/D (_selecting_children)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 570.75 414 581.25 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+367 0 obj
+<<
+/A <<
+/D (_selecting_the_next_element)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 558.15 414 568.65 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+368 0 obj
+<<
+/A <<
+/D (_creating_an_element)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 545.5499 414 556.0499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+369 0 obj
+<<
+/A <<
+/D (_modifying_an_existing_element)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 532.95 414 543.45 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+370 0 obj
+<<
+/A <<
+/D (_cycling_through_elements)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 520.3499 414 530.8499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+371 0 obj
+<<
+/A <<
+/D (_moving_and_copying_elements)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 507.75 414 518.25 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+372 0 obj
+<<
+/A <<
+/D (_summary_3)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 495.1499 414 505.6499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+373 0 obj
+<<
+/A <<
+/D (chapid_4)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 470.0999 432 482.0999 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+374 0 obj
+<<
+/A <<
+/D (_sending_an_ajax_request)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 457.3499 414 467.8499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+375 0 obj
+<<
+/A <<
+/D (_debugging)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 444.75 414 455.25 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+376 0 obj
+<<
+/A <<
+/D (_debugging_sent_ajax_requests)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 432.1499 414 442.6499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+377 0 obj
+<<
+/A <<
+/D (_sending_post_requests_in_javascript)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 419.5499 414 430.0499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+378 0 obj
+<<
+/A <<
+/D (_writing_a_wrapper_function_2)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 406.9499 414 417.4499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+379 0 obj
+<<
+/A <<
+/D (_a_simple_application_of_ajax)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 394.3499 414 404.8499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+380 0 obj
+<<
+/A <<
+/D (_designing_a_site_with_ajax)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 381.7499 414 392.2499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+381 0 obj
+<<
+/A <<
+/D (_summary_4)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 369.1499 414 379.6499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+382 0 obj
+<<
+/A <<
+/D (chapid_5)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 344.0999 432 356.0999 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+383 0 obj
+<<
+/A <<
+/D (_writing_javascript)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 331.3499 414 341.8499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+384 0 obj
+<<
+/A <<
+/D (_comments)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 318.7499 414 329.2499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+385 0 obj
+<<
+/A <<
+/D (_coding_standards)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 306.1499 414 316.6499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+386 0 obj
+<<
+/A <<
+/D (_literals_notation)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 293.5499 414 304.0499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+387 0 obj
+<<
+/A <<
+/D (_object_literals)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 280.9499 414 291.4499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+388 0 obj
+<<
+/A <<
+/D (_other_literals)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 268.3499 414 278.8499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+389 0 obj
+<<
+/A <<
+/D (_optimizations)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 255.7499 414 266.2499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+390 0 obj
+<<
+/A <<
+/D (_algorithms)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 243.1499 414 253.6499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+391 0 obj
+<<
+/A <<
+/D (_caching_variables)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 230.5499 414 241.0499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+392 0 obj
+<<
+/A <<
+/D (_parseint)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 217.9498 414 228.4498 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+393 0 obj
+<<
+/A <<
+/D (_loops)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 205.3498 414 215.8498 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+394 0 obj
+<<
+/A <<
+/D (_minimize_repeated_expressions)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 192.7498 414 203.2498 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+395 0 obj
+<<
+/A <<
+/D (_functions)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 180.1498 414 190.6498 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+396 0 obj
+<<
+/A <<
+/D (_declarations_versus_expressions)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 167.5498 414 178.0498 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+397 0 obj
+<<
+/A <<
+/D (_function_callbacks)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 154.9498 414 165.4498 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+398 0 obj
+<<
+/A <<
+/D (_if_invoking_self_defining_functions)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 142.3498 414 152.8498 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+399 0 obj
+<<
+/A <<
+/D (_code_reuse)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 129.7498 414 140.2498 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+400 0 obj
+<<
+/A <<
+/D (_common_antipatterns)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 117.1498 414 127.6498 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+401 0 obj
+<<
+/A <<
+/D (_using_eval)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 104.5498 414 115.0498 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+402 0 obj
+<<
+/A <<
+/D (_with)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 91.9498 414 102.4498 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+403 0 obj
+<<
+/A <<
+/D (_document_write)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 79.3498 414 89.8498 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+404 0 obj
+[ 405 0 R 406 0 R 407 0 R 408 0 R 409 0 R 410 0 R 411 0 R 412 0 R 1139 0 R ]
+endobj
+405 0 obj
+<<
+/A <<
+/D (_common_design_patterns)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 595.95 414 606.45 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+406 0 obj
+<<
+/A <<
+/D (_the_singleton_pattern)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 583.3499 414 593.8499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+407 0 obj
+<<
+/A <<
+/D (_the_factory_pattern)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 570.75 414 581.25 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+408 0 obj
+<<
+/A <<
+/D (_the_iterator_pattern)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 558.15 414 568.65 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+409 0 obj
+<<
+/A <<
+/D (_the_facade_pattern)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 95.04 545.5499 414 556.0499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+410 0 obj
+<<
+/A <<
+/D (_summary_5)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 86.4 532.95 414 543.45 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+411 0 obj
+<<
+/A <<
+/D (appendix_a)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 84.968 507.8999 432 519.9 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+412 0 obj
+<<
+/A <<
+/D (appendix_b)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 85.028 482.6999 432 494.6999 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+413 0 obj
+[ 414 0 R 415 0 R 416 0 R 417 0 R 418 0 R 1149 0 R ]
+endobj
+414 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://bit.ly/V3P0ia)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121047-05'00')
+/Rect [ 283.1655 201.5209 356.0354 212.0209 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+415 0 obj
+<<
+/A <<
+/D (chapid_5)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 72 270.5209 114.3223 281.0209 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+416 0 obj
+<<
+/A <<
+/D (appendix_a)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 321.2493 257.9209 373.1473 268.4209 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+417 0 obj
+<<
+/A <<
+/D (appendix_b)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 399.6285 245.3209 432 255.8209 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+418 0 obj
+<<
+/A <<
+/D (appendix_b)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 72 232.7209 94.3965 243.2209 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+419 0 obj
+[ 420 0 R 421 0 R 422 0 R 423 0 R 424 0 R 425 0 R 1154 0 R ]
+endobj
+420 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://oreil.ly/HF_JavaScript)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121047-05'00')
+/Rect [ 387.3628 546.5935 432 557.0935 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+421 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://oreil.ly/HF_JavaScript)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121047-05'00')
+/Rect [ 72 533.9935 114.315 544.4935 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+422 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://oreil.ly/JavaScript_jQuery_TMM)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121047-05'00')
+/Rect [ 235.4733 533.9935 417.7308 544.4935 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+423 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://oreil.ly/Learning_JavaScript)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121047-05'00')
+/Rect [ 141.081 521.3935 222 531.8935 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+424 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://oreil.ly/JS_Definitive_Guide)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121047-05'00')
+/Rect [ 118.4415 508.7935 252.2639 519.2935 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+425 0 obj
+<<
+/A <<
+/D (chapid_5)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 268.0153 464.9935 310.6004 475.4935 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+426 0 obj
+<<
+/A <<
+/S /URI
+/URI (mailto:permissions@oreilly.com)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121047-05'00')
+/Rect [ 206.0954 395.9935 307.5149 406.4935 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+427 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://my.safaribooksonline.com/?portal=oreilly)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121047-05'00')
+/Rect [ 148 345.0471 232.6151 355.5471 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+428 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://www.safaribooksonline.com/content)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121047-05'00')
+/Rect [ 176.7715 332.4471 208.9645 342.9471 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+429 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://www.safaribooksonline.com/subscriptions)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121047-05'00')
+/Rect [ 230.3238 257.4471 291.646 267.9471 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+430 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://www.safaribooksonline.com/organizations-teams)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121047-05'00')
+/Rect [ 403.3559 257.4471 432 267.9471 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+431 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://www.safaribooksonline.com/organizations-teams)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121047-05'00')
+/Rect [ 72 244.8471 105.369 255.3471 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+432 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://www.safaribooksonline.com/government)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121047-05'00')
+/Rect [ 110.0213 244.8471 199.8916 255.3471 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+433 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://www.safaribooksonline.com/individuals)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121047-05'00')
+/Rect [ 222.8883 244.8471 270.5163 255.3471 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+434 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://www.safaribooksonline.com/publishers)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121047-05'00')
+/Rect [ 181.6789 169.2471 204.1489 179.7471 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+435 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://www.safaribooksonline.com/)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121047-05'00')
+/Rect [ 133.2045 156.647 160.4205 167.147 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+436 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://oreil.ly/Learning_jQuery)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121047-05'00')
+/Rect [ 248.337 440.8035 377.0355 451.3035 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+437 0 obj
+<<
+/A <<
+/S /URI
+/URI (mailto:bookquestions@oreilly.com)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121047-05'00')
+/Rect [ 392.1519 422.2035 432 432.7035 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+438 0 obj
+<<
+/A <<
+/S /URI
+/URI (mailto:bookquestions@oreilly.com)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121047-05'00')
+/Rect [ 72 409.6035 145.29 420.1035 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+439 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://www.oreilly.com)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121047-05'00')
+/Rect [ 99.5415 378.4035 194.6505 388.9035 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+440 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://facebook.com/oreilly)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121047-05'00')
+/Rect [ 166.2479 359.8035 277.2749 370.3035 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+441 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://twitter.com/oreillymedia)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121047-05'00')
+/Rect [ 165.534 341.2035 293.8754 351.7035 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+442 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://www.youtube.com/oreillymedia)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121047-05'00')
+/Rect [ 170.721 322.6035 328.3154 333.1035 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+443 0 obj
+[ 444 0 R 1189 0 R ]
+endobj
+444 0 obj
+<<
+/A <<
+/D (Event_Propagation)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 305.1065 222.0859 429.5114 232.5859 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+445 0 obj
+[ 446 0 R 447 0 R 448 0 R 1204 0 R ]
+endobj
+446 0 obj
+<<
+/A <<
+/D (FIG1-1)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 145.468 472.3499 190.5653 482.8499 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+447 0 obj
+<<
+/A <<
+/D (FIG1-2)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 263.2995 235.4207 307.3995 245.9207 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+448 0 obj
+<<
+/A <<
+/D (FIG1-3)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 309.9077 133.2212 354.0834 143.7212 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+449 0 obj
+[ 450 0 R 1209 0 R ]
+endobj
+450 0 obj
+<<
+/A <<
+/D (FIG1-3)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 300.396 246.6207 344.496 257.1207 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+451 0 obj
+[ 452 0 R 1279 0 R ]
+endobj
+452 0 obj
+<<
+/A <<
+/D (FIG2-1)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 356.3582 477.2507 396 486.8506 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+453 0 obj
+<<
+/A <<
+/S /URI
+/URI (http://jsperf.com/getelementbyid-vs-jquery-id)
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121048-05'00')
+/Rect [ 242.811 105.9801 429.5115 116.4801 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+454 0 obj
+<<
+/Ascent 1014
+/AvgWidth 531
+/CapHeight 1014
+/CharSet (/asterisk)
+/Descent -360
+/Flags 98
+/FontBBox [ -221 -360 1684 1014 ]
+/FontFile3 114 0 R
+/FontName /DLMHOS+MinionPro-BoldCnIt
+/ItalicAngle -12
+/MaxWidth 1905
+/StemV 0
+/Type /FontDescriptor
+>>
+endobj
+455 0 obj
+[ 456 0 R 1329 0 R ]
+endobj
+456 0 obj
+<<
+/A <<
+/D (chapid_5)
+/S /GoTo
+>>
+/Border [ 0 0 0 ]
+/M (D:20130128121050-05'00')
+/Rect [ 293.6458 233.0954 335.6828 243.5954 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+457 0 obj
+[ 458 0 R 1384 0 R ]
+endobj
+458 0 obj
+<<
+/A <<
+/D (ST

@@ -1,0 +1,4 @@
+
+String.prototype.fulltrim = function () {
+        return this.replace(/(?:(?:^|\n)\s+|\s+(?:$|\n))/g, "").replace(/\s+/g, " ")
+    };
