@@ -10,12 +10,16 @@ import { ParentComponentComponent } from './components/parent-component/parent-c
 import { ChildOneComponentComponent } from './components/child-one-component/child-one-component.component';
 import { ChildTwoComponentComponent } from './components/child-two-component/child-two-component.component';
 import { AuthChildGuard } from './services/auth-child-guard.service';
+import { CanDeactivateGuard } from './services/can-deactivate.guard';
+import { CanDeactivateComponent } from './components/can-deactivate/can-deactivate.component';
+
 export const routes: Routes = [
     { path: 'form', component: FormComponent },
     { path: 'typescript', component: TypescriptComponent },
     { path: 'callback', component: CallbackPromiseComponent },
     { path: 'varletconst', component: VarLetConstComponent },
     { path: 'login', component: LoginComponent },
+    { path: 'canDeacticate', component: CanDeactivateComponent, canDeactivate: [CanDeactivateGuard] },
     { path: 'protected', component: VarLetConstComponent, canActivate: [AuthGuard] },//canActivateChild, canDeactivate, Resolve, onLoad
     { path: 'RecursiveFunction', component: RecursiveFunctionComponent },
     {

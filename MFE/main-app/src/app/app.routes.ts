@@ -2,6 +2,7 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { RouterModule, Routes } from '@angular/router';
 import { loadRemoteModule } from '@angular-architects/module-federation';
+import { AppComponent } from './app.component';
 
 const routes: Routes = [
   { path: 'product-listing', loadChildren: () => loadRemoteModule('productListing', 'ProductListingModule') },
