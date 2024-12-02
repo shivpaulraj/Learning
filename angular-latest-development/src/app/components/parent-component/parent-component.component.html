@@ -6,3 +6,11 @@
   </ul>
 </nav>
 <router-outlet></router-outlet>
+<h2>Parent Component</h2>
+    <button (click)="increment()">Increment</button>
+    <app-child-one-component [data]="counter"></app-child-one-component>
+
+    
+<h2>Parent Component</h2>
+<button (click)="increment()">Increment</button>
+<app-child-two-component [data]="counter"></app-child-two-component>

@@ -1,9 +1,9 @@
 import { CanActivate, CanActivateChild, Routes } from '@angular/router';
-import { TypescriptComponent } from './typescript/typescript.component';
-import { FormComponent } from './form/form.component';
-import { CallbackPromiseComponent } from './callback-promise/callback-promise.component';
-import { VarLetConstComponent } from './var-let-const/var-let-const.component';
-import { RecursiveFunctionComponent } from './recursive-function/recursive-function.component';
+import { TypescriptComponent } from './components/typescript/typescript.component';
+import { FormComponent } from './components/form/form.component';
+import { CallbackPromiseComponent } from './components/callback-promise/callback-promise.component';
+import { VarLetConstComponent } from './components/var-let-const/var-let-const.component';
+import { RecursiveFunctionComponent } from './components/recursive-function/recursive-function.component';
 import { AuthGuard } from './services/auth.guard';
 import { LoginComponent } from './components/login/login.component';
 import { ParentComponentComponent } from './components/parent-component/parent-component.component';

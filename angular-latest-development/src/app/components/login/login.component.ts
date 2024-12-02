@@ -28,7 +28,7 @@ export class LoginComponent {
     if (this.loginForm.valid) {
       const { username, password } = this.loginForm.value;
       if (this.authService.login(username, password)) {
-        this.router.navigate(['/protected']);
+        this.router.navigate(['/parent']);
       } else {
         alert('Invalid credentials!');
       }

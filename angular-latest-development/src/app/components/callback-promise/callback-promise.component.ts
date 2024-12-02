@@ -1,5 +1,41 @@
 import { Component } from '@angular/core';
 import e from 'express';
+import { Subject } from 'rxjs';
+
+// Create a new Subject
+const mySubject = new Subject<number>();
+
+// Subscribe two observers to the Subject
+mySubject.subscribe(value => {
+  console.log(`Observer 1 received: ${value}`);
+});
+
+mySubject.subscribe(value => {
+  console.log(`Observer 2 received: ${value}`);
+});
+
+// Emit values through the Subject
+mySubject.next(10);
+
+mySubject.next(20);
+
+// Emit a value before any observer has subscribed
+mySubject.next(10);
+
+// Subscribe an observer to the Subject
+mySubject.subscribe(value => {
+  setTimeout(() => {
+    console.log(`Observer 3 received: ${value}`);
+    // mySubject.next(24);
+  },1000)
+  console.log(`Received: ${value}`);
+});
+
+
+// Emit another value
+mySubject.next(20);
+
+mySubject.unsubscribe();
 
 @Component({
   selector: 'app-callback-promise',
@@ -51,4 +87,5 @@ export class CallbackPromiseComponent {
       }, 1500)
     })
   }
+
 }

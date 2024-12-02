@@ -10,6 +10,7 @@ export class AuthChildGuard implements CanActivateChild {
 
   canActivateChild(): boolean {
     if (this.authService.isLoggedIn()) {
+      console.log('AuthChildGuard canActivateChild',this.authService.isLoggedIn()); 
       return true;
     } else {
       this.router.navigate(['/login']);
