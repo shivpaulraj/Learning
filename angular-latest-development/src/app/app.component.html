@@ -4,19 +4,23 @@
     <!-- <div class="col-12">Angular 18 Learning code {{ title }}!</div> -->
     <div class="col-2">
       Menus
-      <nav [hidden]="true">
+      <nav [hidden]="false">
         <ul>
           <li>
-            <a class="button" routerLink="/first">First</a>
+            <a class="button" routerLink="/first">{{"First" | reversePipe}}</a>
           </li>
         </ul>
       </nav>
       <div class="list-group">
-        <a  [routerLink]="['/form']" routerLinkActive="active"  class="list-group-item list-group-item-action" aria-current="true">Form </a>
+        <a [routerLink]="['/login']" routerLinkActive="active"  class="list-group-item list-group-item-action" aria-current="true">Login </a>
+        <a [routerLink]="['/form']" routerLinkActive="active"  class="list-group-item list-group-item-action" aria-current="true">Form </a>
         <a [routerLink]="['/typescript']" routerLinkActive="active" class="list-group-item list-group-item-action">Typescript</a>
         <a [routerLink]="['/callback']" routerLinkActive="active" class="list-group-item list-group-item-action">callback</a>
         <a [routerLink]="['/varletconst']" routerLinkActive="active" class="list-group-item list-group-item-action">Var Let Const</a>
+        <a [routerLink]="['/canDeacticate']" routerLinkActive="active" class="list-group-item list-group-item-action">canDeacticate</a>
+        <a [routerLink]="['/protected']" routerLinkActive="active" class="list-group-item list-group-item-action">canActicate</a>
         <a [routerLink]="['/RecursiveFunction']" routerLinkActive="active" class="list-group-item list-group-item-action">Recursive Function</a>
+        <a [routerLink]="['/parent']" routerLinkActive="active" class="list-group-item list-group-item-action">Parent</a>
         <a href="#" class="list-group-item list-group-item-action disabled" tabindex="-1" aria-disabled="true">A disabled link item</a>
       </div>
     </div>
